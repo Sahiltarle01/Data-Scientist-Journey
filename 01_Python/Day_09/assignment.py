@@ -1,4 +1,5 @@
 # Python Day 9 Assignment
+
 # Q1. Create and Call a Function
 print("\nQ1. Create and Call a Function")
 def welcome():
